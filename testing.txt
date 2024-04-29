@@ -1,0 +1,65 @@
+Sample Text 1:
+
+The Mona Lisa is a famous portrait painting by Leonardo da Vinci, created during the Renaissance period in Italy. It is widely considered one of the most iconic artworks in the world, known for its enigmatic smile and masterful technique. The painting depicts a woman, believed to be Lisa Gherardini, the wife of Florentine merchant Francesco del Giocondo. The Mona Lisa is housed in the Louvre Museum in Paris and attracts millions of visitors each year.
+
+sample output 1 with approx 50% summary length:
+
+The Mona Lisa is a famous portrait painting by Leonardo da Vinci, created during the Renaissance period in Italy. It is widely considered one of the most iconic artworks in the world, known for its enigmatic smile and masterful technique. The painting depicts a woman, believed to be Lisa Gherardini, the wife of Florentine merchant Francesco del Giocondo. The MonaLisa is housed in the Louvre Museum in Paris and attracts millions of visitors each year. For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.
+
+sample output 1 with 100% summary length:
+The Mona Lisa is a famous portrait painting by Leonardo da Vinci, created during the Renaissance period in Italy. It is widely considered one of the most iconic artworks in the world, known for its enigmatic smile and masterful technique. The painting depicts a woman, believed to be Lisa Gherardini, the wife of Florentine merchant Francesco del Giocondo. The MonaLisa is housed in the Louvre Museum in Paris and attracts millions of visitors each year. The portrait is believed to have been painted in the early 1500s, and is thought to be the work of the Italian Renaissance artist, Francesco della Girolamo, who is said to have painted it in the late 1500s. The work is currently on display at the Museum of Modern Art in New York and is expected to be on display until the end of the year. For more information, visit the museum's website or go to: http://www.museumofmodernart.com/mona-l Lisa is also available to buy on eBay and is available for pre-order on a number of different items, including jewellery, books and other items. For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here.
+
+
+Sample Text 2:
+
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions), and self-correction. AI applications include expert systems, speech recognition, and machine vision. AI can be categorized as weak or strong. Weak AI, also known as narrow AI, is designed and trained for a particular task, while strong AI, also known as artificial general intelligence, is an AI system with generalized human cognitive abilities.
+
+sample output 2 with approx 50% summary length:
+
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines. These processes include learning (the acquisition of information and rules for using the information), reasoning, and self-correction. AI applications include expert systems, speech recognition, and machine vision. AI can be categorized as weak or strong. Weak AI, also known as narrow AI, is designed and trained for a particular task. Strong AI is an AI system with generalized human cognitive abilities. It is also called artificial general intelligence (AGI) or artificial superintelligence (ASI) It is a type of AI that can be used to predict future events.
+
+sample output 2 with 100% summary length:
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines. These processes include learning (the acquisition of information and rules for using the information), reasoning, and self-correction. AI applications include expert systems, speech recognition, and machine vision. AI can be categorized as weak or strong. Weak AI, also known as narrow AI, is designed and trained for a particular task. Strong AI is an AI system with generalized human cognitive abilities. It is also called artificial general intelligence (AGI) or artificial superintelligence (ASI) It is a type of AI system that can be used to predict future events in the real world. It can also be used as a training tool for AI systems to learn new skills or to improve existing skills. For more information on AI, see the Wikipedia article on Artificial General Intelligence and Artificial Superintelligence (AGi) and the Wikipedia entry on ASI and ASI-related topics. For information on how to use AI in your business, visit the Academy of Technology and Technological Institution (ATI). For more on AI in the U.S., visit The University of Safari and the National Institute of AI (NSA).
+
+
+Sample Text 3:
+
+Climate change refers to significant, long-term changes in the global climate. The Earth's climate has changed throughout history, but the current warming trend is particularly significant due to its human causes. Factors contributing to climate change include greenhouse gas emissions from human activities such as burning fossil fuels, deforestation, and industrial processes. The impacts of climate change are wide-ranging and include rising global temperatures, more frequent extreme weather events, loss of biodiversity, and rising sea levels.
+
+sample output 3 with approx 50% summary length:
+
+Climate change refers to significant, long-term changes in the global climate. The Earth's climate has changed throughout history, but the current warming trend is particularly significant due to its human causes. Factors contributing to climate change include greenhouse gas emissions from human activities such as burning fossil fuels, deforestation, and industrial processes. The impacts of climate change are wide-ranging and include rising global temperatures, more frequent extreme weather events, loss of biodiversity, and rising sea levels. For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details. In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.
+
+sample output 3 with 100% summary length:
+Climate change refers to significant, long-term changes in the global climate. The Earth's climate has changed throughout history, but the current warming trend is particularly significant due to its human causes. Factors contributing to climate change include greenhouse gas emissions from human activities such as burning fossil fuels, deforestation, and industrial processes. The impacts of climate change are wide-ranging and include rising global temperatures, more frequent extreme weather events, loss of biodiversity, and rising sea levels. For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or see www.samaritans.org for details. In the U.S. call the National Suicide Prevention Line on 1-800-273-8255 or visit www.suicidepreventionlifeline.org. For more information on climate change, visit the World Resources Institute's Climate Change Change webpage. For information on how to help children in need, visit the National Suicide Prevention Program and The Children's Education Institute in the UK. For help with reading comprehension and vocabulary, visit The University of London and the University of Manchester on Climate Change. For support on suicide matters, call The Samaritans on 0800 273 8255.
+
+
+Sample Text 4:
+
+The theory of relativity, proposed by Albert Einstein in the early 20th century, revolutionized our understanding of space, time, and gravity. There are two main branches of the theory: special relativity and general relativity. Special relativity describes the relationship between space and time in the absence of gravity, while general relativity extends this to include the effects of gravity on spacetime. The theory of relativity has been confirmed through numerous experiments and observations and has had profound implications for physics, cosmology, and our understanding of the universe.
+
+
+sample output 4 with approx 50% summary length:
+The theory of relativity was proposed by Albert Einstein in the early 20th century. There are two main branches of the theory: special relativity and general relativity. Special relativity describes the relationship between space and time in the absence of gravity, while general relativity extends this to include the effects of gravity on spacetime. The theory has had profound implications for physics, cosmology, and our understanding of the universe. It has been confirmed through numerous experiments and observations and has had a profound impact on our knowledge of space, time, and gravity. For more information on the theory, visit the Albert Einstein Institute for Theoretical Physics.
+
+sample output 4 with 100% summary length:
+The theory of relativity was proposed by Albert Einstein in the early 20th century. There are two main branches of the theory: special relativity and general relativity. Special relativity describes the relationship between space and time in the absence of gravity, while general relativity extends this to include the effects of gravity on spacetime. The theory has had profound implications for physics, cosmology, and our understanding of the universe. It has been confirmed through numerous experiments and observations and has had a profound impact on our knowledge of space, time, and gravity. For more information on the theory, visit the Albert Einstein Institute for Theoretical Research in New York City, or visit: http://www.einstein institute.org/. For more on the relativity theory, go to: www.elisabeth-einstein.org/relativists/relativity-theory-of-time-and-gravitation-in-new-york-city, or http:www.elise-eisenhower-institute-for-theoretical-research.org. for more information about relativity, or go to www.ellis-institut.com/relate/ relativity-theorists-towards-time.
+
+
+
+
+1. **Relevance to Original Text**:
+   - Percentage: 95%
+
+2. **Coherence and Clarity**:
+   - Percentage: 90%
+
+3. **Conciseness**:
+   - Percentage: 85%
+
+4. **Coverage of Key Points**:
+   - Percentage: 90%
+
+5. **Language Quality**:
+   - Percentage: 85%
+
