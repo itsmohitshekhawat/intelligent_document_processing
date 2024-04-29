@@ -1,4 +1,4 @@
-# Text Summarizer
+# Intelligent Document Processing
 
 [Try the web application here.](http://anweasha.pythonanywhere.com/Summarize)
 
